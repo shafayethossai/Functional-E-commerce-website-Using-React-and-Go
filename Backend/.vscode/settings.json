@@ -1,0 +1,17 @@
+{
+    "editor.screenReaderAnnounceInlineSuggestion": false,
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "editor.inlineSuggest.edits.showCollapsed": false,
+    "editor.inlineSuggest.enabled": true,
+    "editor.inlineSuggest.experimental.emptyResponseInformation": false,
+    "editor.inlineSuggest.suppressInSnippetMode": false,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+    "editor.inlineSuggest.triggerCommandOnProviderChange": false,
+    "git.ignoreLimitWarning": true,
+    "search.useGlobalIgnoreFiles": true,
+    "chat.checkpoints.showFileChanges": true,
+    
+}
